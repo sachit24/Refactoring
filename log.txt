@@ -1,4 +1,8 @@
+3206deb Completed Task2.3 - till step 14
+7e9d7e0 Merge pull request #5 from sachit24/Task2.1-branch
+daa62ef Completed Task2.2 - till step 12
 48d4b2d Completed Task2.2 - till step 11
+1a95250 Merge pull request #4 from sachit24/Task2.1-branch
 445d2ac Completed Task2.1 - till step 6
 fc9ef6f Completed Task2.1 - till step 4
 c3842e4 Merge pull request #3 from sachit24/Task1.2-branch
