@@ -1,3 +1,6 @@
+fc9ef6f Completed Task2.1 - till step 4
+c3842e4 Merge pull request #3 from sachit24/Task1.2-branch
+6994540 Completed Task1.2
 fb1f23a Merge pull request #2 from sachit24/Task1.1-Branch
 4291fa8 Completed Task1.1
 648f5fe Initial commit
